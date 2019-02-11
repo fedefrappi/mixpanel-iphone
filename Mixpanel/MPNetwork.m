@@ -8,7 +8,7 @@
 
 #import "Mixpanel.h"
 #import "MixpanelPrivate.h"
-#import "MPLogger.h"
+#import "MixPanelLogger.h"
 #import "MPNetwork.h"
 #import "MPNetworkPrivate.h"
 #if !TARGET_OS_OSX

@@ -4,7 +4,7 @@
 #import <QuartzCore/QuartzCore.h>
 #import "MPApplicationStateSerializer.h"
 #import "MPClassDescription.h"
-#import "MPLogger.h"
+#import "MixPanelLogger.h"
 #import "MPObjectIdentityProvider.h"
 #import "MPObjectSerializer.h"
 #import "MPObjectSerializerConfig.h"

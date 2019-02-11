@@ -12,7 +12,7 @@
 #import "NSNotificationCenter+AutomaticTracks.h"
 #import "AutomaticTracksConstants.h"
 #import "MPSwizzle.h"
-#import "MPLogger.h"
+#import "MixPanelLogger.h"
 
 @implementation Mixpanel (AutomaticTracks)
 

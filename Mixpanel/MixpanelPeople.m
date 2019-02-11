@@ -10,7 +10,7 @@
 #import "MixpanelPeoplePrivate.h"
 #import "Mixpanel.h"
 #import "MixpanelPrivate.h"
-#import "MPLogger.h"
+#import "MixPanelLogger.h"
 
 #if defined(MIXPANEL_WATCHOS)
 #import "MixpanelWatchProperties.h"

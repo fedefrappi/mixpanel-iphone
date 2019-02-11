@@ -2,7 +2,7 @@
 #import <UIKit/UIKit.h>
 #import "MixpanelPrivate.h"
 #import "MPFoundation.h"
-#import "MPLogger.h"
+#import "MixPanelLogger.h"
 #import "MPNotification.h"
 #import "MPNotificationViewController.h"
 #import "MPResources.h"

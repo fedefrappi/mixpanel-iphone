@@ -3,7 +3,7 @@
 
 #import <objc/runtime.h>
 #import <UIKit/UIKit.h>
-#import "MPLogger.h"
+#import "MixPanelLogger.h"
 #import "NSInvocation+MPHelpers.h"
 
 typedef union {

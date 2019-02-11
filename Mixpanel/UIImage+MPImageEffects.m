@@ -95,7 +95,7 @@
 
 #import <Accelerate/Accelerate.h>
 #import <float.h>
-#import "MPLogger.h"
+#import "MixPanelLogger.h"
 #import "UIColor+MPColor.h"
 #import "UIImage+MPImageEffects.h"
 

@@ -1,4 +1,4 @@
-#import "MPLogger.h"
+#import "MixPanelLogger.h"
 #import "MPNotification.h"
 #import "Mixpanel.h"
 

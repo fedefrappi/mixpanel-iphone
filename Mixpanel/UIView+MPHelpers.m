@@ -2,7 +2,7 @@
 #import <QuartzCore/QuartzCore.h>
 #import <CommonCrypto/CommonDigest.h>
 #import "UIView+MPHelpers.h"
-#import "MPLogger.h"
+#import "MixPanelLogger.h"
 
 // NB If you add any more fingerprint methods, increment this.
 #define MP_FINGERPRINT_VERSION 1

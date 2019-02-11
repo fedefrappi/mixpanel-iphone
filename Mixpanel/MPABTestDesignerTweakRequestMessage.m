@@ -9,7 +9,7 @@
 #import "MPABTestDesignerConnection.h"
 #import "MPABTestDesignerTweakRequestMessage.h"
 #import "MPABTestDesignerTweakResponseMessage.h"
-#import "MPLogger.h"
+#import "MixPanelLogger.h"
 #import "MPVariant.h"
 
 NSString *const MPABTestDesignerTweakRequestMessageType = @"tweak_request";

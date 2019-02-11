@@ -10,7 +10,7 @@
 #import "MixpanelPeoplePrivate.h"
 #import "MixpanelPrivate.h"
 #import "MPFoundation.h"
-#import "MPLogger.h"
+#import "MixPanelLogger.h"
 #import "MPNetworkPrivate.h"
 
 #import <UserNotifications/UserNotifications.h>

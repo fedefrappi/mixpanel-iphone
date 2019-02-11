@@ -41,7 +41,7 @@
 
 #import <CommonCrypto/CommonDigest.h>
 #import <Security/SecRandom.h>
-#import "MPLogger.h"
+#import "MixPanelLogger.h"
 
 #if OS_OBJECT_USE_OBJC_RETAIN_RELEASE
 #define mp_dispatch_retain(x)

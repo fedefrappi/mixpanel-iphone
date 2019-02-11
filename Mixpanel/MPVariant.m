@@ -7,7 +7,7 @@
 //
 
 #import "MixpanelPrivate.h"
-#import "MPLogger.h"
+#import "MixPanelLogger.h"
 #import "MPObjectSelector.h"
 #import "MPSwizzler.h"
 #import "MPTweak.h"

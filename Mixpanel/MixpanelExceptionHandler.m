@@ -9,7 +9,7 @@
 #import "MixpanelExceptionHandler.h"
 #import "Mixpanel.h"
 #import "MixpanelPrivate.h"
-#import "MPLogger.h"
+#import "MixPanelLogger.h"
 #include <libkern/OSAtomic.h>
 #include <stdatomic.h> 
 

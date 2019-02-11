@@ -1,7 +1,7 @@
 //
 // Copyright (c) 2014 Mixpanel. All rights reserved.
 
-#import "MPLogger.h"
+#import "MixPanelLogger.h"
 #import "MPValueTransformers.h"
 
 @implementation MPNSAttributedStringToNSDictionaryValueTransformer

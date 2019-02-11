@@ -7,7 +7,7 @@
 //
 
 #import <objc/runtime.h>
-#import "MPLogger.h"
+#import "MixPanelLogger.h"
 #import "MPSwizzler.h"
 
 #define MIN_ARGS 2
